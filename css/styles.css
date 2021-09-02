@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(90, 181, 218);
+}
+
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.head{
+    background-image: url(../images/coding-portfolio.jpeg);
+    imageopacity: .2;
+}
+
+.default{cursor:url(../images/cursor-png-1104.png), auto;} /* https://www.freeiconspng.com/img/1104 */
